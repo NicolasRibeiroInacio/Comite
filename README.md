@@ -30,7 +30,6 @@ Para a resolução destes exercícios, foram utilizadas as seguintes ferramentas
 * **Linguagem principal: Python
 
 **Nicolas Ribeiro Inacio** [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NicolasRibeiroInacio)](https://github.com/NicolasRibeiroInacio)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=SEU_LINK_AQUI)](SEU_LINK_AQUI)
 
 ---
 ⭐️ *Se este repositório te ajudou de alguma forma, sinta-se à vontade para dar uma estrela!*
